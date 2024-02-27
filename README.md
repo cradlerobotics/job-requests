@@ -22,6 +22,9 @@ This repository is private, so you need to be added to the list of collaborators
 - Assign the label on the right side based on the type of request.
 - Submit the issue
 
+### Job Request Tempelates 
+**TODO**
+
 ## Tracking the job request
 **TODO**
 
