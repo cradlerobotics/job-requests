@@ -20,7 +20,7 @@ This repository is private, so you need to be added to the list of collaborators
 - Once you are in the "Issues" section, click the green "New Issue" button on the right.
 - Fill in the issue details (Please provide all the details such as requirements, dates, and location).
 - Assign the label on the right side based on the type of request.
-- Submit the issue
+- Submit the issue.
 
 ### Job Request Tempelates 
 **TODO**
