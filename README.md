@@ -22,6 +22,7 @@ This repository is private, so you need to be added to the list of collaborators
 - Assign the label on the right side based on the type of request.
 - Submit the issue
 
-## Contact
+## Tracking the job request
+**TODO**
 
 Contact me at danish.khan@manchester.ac.uk for further assistance or inquiries.
