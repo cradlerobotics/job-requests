@@ -17,12 +17,11 @@ This repository is private, so you need to be added to the list of collaborators
 
 ## Submitting a Job Request
 - Click on the "Issues" tab in the repository's navigation bar.
-- Once you are in the "Issues" section, click on the green "New Issue" button located on the right side.
-- Fill in the issue details (Please provide all the deatails such as requirements, dates, location).
+- Once you are in the "Issues" section, click the green "New Issue" button on the right.
+- Fill in the issue details (Please provide all the details such as requirements, dates, and location).
 - Assign the label on the right side based on the type of request.
 - Submit the issue
 
 ## Contact
 
-For further assistance or inquiries, contact me at danish.khan@manchester.ac.uk
-
+Contact me at danish.khan@manchester.ac.uk for further assistance or inquiries.
